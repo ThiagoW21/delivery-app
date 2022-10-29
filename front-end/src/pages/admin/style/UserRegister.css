@@ -1,0 +1,13 @@
+.title {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.role {
+    width: 220px;
+}
+
+.buttonCadastrar {
+    color: white;
+    background-color: #036B52;
+}

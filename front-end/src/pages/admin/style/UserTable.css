@@ -1,0 +1,31 @@
+.id {
+  background-color: #2fc18c;
+  font-size: 16px;
+  font-weight: 400;
+  width: 30px;
+}
+
+.name {
+  background-color: lightgrey;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.email {
+  background-color: #036b52;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  width: auto;
+}
+
+.roleTable {
+  background-color: #421981;
+  color: white;
+  font-size: 16px;
+  width: 20px;
+}
+
+.table {
+  border-radius: 10px;
+}
